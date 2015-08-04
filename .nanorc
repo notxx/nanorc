@@ -1,0 +1,9 @@
+include ~/.nano/syntax/nanorc.nanorc
+include ~/.nano/syntax/javascript.nanorc
+include ~/.nano/syntax/css.nanorc
+include ~/.nano/syntax/html.nanorc
+include ~/.nano/syntax/git.nanorc
+set autoindent
+set smarthome
+set tabsize 4
+set mouse

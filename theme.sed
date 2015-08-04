@@ -4,7 +4,7 @@ s|^STRING:|color yellow|
 s|^COMMENT:|color cyan|
 s|^TYPE:|color green|
 s|^BOOLEAN:|color brightcyan|
-s|^NUMBER:|color blue|
+s|^NUMBER:|color brightyellow|
 s|^REGEXP:|color magenta|
 s|^VARIABLE:|color brightyellow|
 s|^OPERATOR:|color red|

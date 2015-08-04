@@ -7,8 +7,8 @@ TAG:       "</?(a|abbr|address|area|article|aside|audio|b|base|bdo|blockquote|bo
 STRING:    "=([A-Za-z0-9!$%*\^(){}#|:;_~@+,.?/\\-]|\[|\])+"
 OPERATOR:  "="
 +STRING
-PLAIN:     start=">" end="<"
 TAG:       "[<>]"
+PLAIN:     start=">" end="<"
 
 # Embedded template languages
 VARIABLE:  "\{\{[^}]*\}\}|<%=.*%>"
